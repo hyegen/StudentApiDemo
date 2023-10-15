@@ -1,1 +1,1 @@
-Fetching data project from Mssql with Rest API. 
+Fetching data with Rest API.
