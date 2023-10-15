@@ -45,6 +45,4 @@ public class StudentAdapter extends ArrayAdapter<Student> {
 
         return convertView;
     }
-
-
 }
