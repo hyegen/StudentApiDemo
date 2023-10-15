@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private List<String> dataList = new ArrayList<>();
     Button btnAdd;
     private ListView listView;
-    private final static String myUrl = "http://192.168.1.37/api/Students";
+    private final static String myUrl = "myUrl";
     private static final String TAG = "MainActivity";
     @SuppressWarnings("deprecation")
     @Override
